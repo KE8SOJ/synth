@@ -1,0 +1,5 @@
+* Links
+[[http://www.rfc-editor.org/rfc/rfc6295.txt][RFC]]
+[[http://www.fluidsynth.org/api/][FluidSynth API]]
+[[https://github.com/FluidSynth/fluidsynth/wiki/UserManual][FluidSynth User Manual]]
+[[https://reverbmachine.com/blog/tycho-awake-synth-sound][Tycho Sound Blog]]
